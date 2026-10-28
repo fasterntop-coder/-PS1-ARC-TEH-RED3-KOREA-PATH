@@ -6,8 +6,8 @@
   - 디스크 2 원본 MD5: 07BC323DF2C931E3CB24F8BF0864A169
 
 [패치 파일]
-  ARC_THE_RED3_CD1_KOREA.xdelta : 디스크 1용
-  ARC_THE_RED3_CD2_KOREA.xdelta : 디스크 2용
+ -  ARC_THE_RED3_CD1_KOREA.xdelta : 디스크 1용
+ -  ARC_THE_RED3_CD2_KOREA.xdelta : 디스크 2용
 
 [적용 방법]
   1. 원본 일본판 .bin 파일(트랙 1개짜리 bin/cue)을 준비하세요.
